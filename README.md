@@ -13,7 +13,7 @@
 
 - 🎯 I’m looking to collaborate on **Open Source Projects** and **StackOverflow**
 
-- 📫 How to reach me **sarthak.bhan07@gmail.com**
+- 📫 How to reach me **prateekranka1607@gmail.com**
 
 - ⚡ Fun fact **I play online Games + I'm Funny 😏**
 
