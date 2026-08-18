@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f2229,100:3a3f4b&height=200&section=header&text=Prateek%20Ranka&fontSize=50&fontColor=e6edf3&fontAlignY=40&desc=Applied%20AI%20Engineer%20%7C%20USC&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
+  <img src="banner.svg" width="100%"/>
 
   <p>Bridging the gap between frontier AI research, multi-agent systems, and production software.</p>
 
