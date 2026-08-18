@@ -1,101 +1,158 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-</div>
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30px" height="30px">, I'm <strong>Prateek Ranka</strong></h1>
-<h3 align="center">I'm a passionate Web and AI/ML Developer from India.</h3>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f2229,100:3a3f4b&height=200&section=header&text=Prateek%20Ranka&fontSize=50&fontColor=e6edf3&fontAlignY=40&desc=Applied%20AI%20Engineer%20%7C%20USC&descAlignY=58&descSize=18&descColor=8b949e" width="100%"/>
 
-## 🙋‍♂️ About Me
+  <p>Bridging the gap between frontier AI research, multi-agent systems, and production software.</p>
 
-- 🔭 I’m currently working on **Freelancing Projects** and **Open Source Projects**
+  <br/>
 
-- 🌱 I’m currently learning **MERN and AI-ML and Web3**
+  <a href="https://prat-ran.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-prat--ran.vercel.app-181717?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://scholar.google.com/citations?user=GPHVd6sAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-160+_Citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://www.linkedin.com/in/prateekranka16/"><img src="https://img.shields.io/badge/LinkedIn-prateekranka16-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:prateekranka1607@gmail.com"><img src="https://img.shields.io/badge/Email-prateekranka1607%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-San_Francisco%2C_CA-gray?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 
-- 🎯 I’m looking to collaborate on **Open Source Projects** and **StackOverflow**
+  <br/><br/>
 
-- 📫 How to reach me **prateekranka1607@gmail.com**
-
-- ⚡ Fun fact **I play online Games + I'm Funny 😏**
-
-## Connect with me:
-<p align="left">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75" >&nbsp;
-<a href = "https://www.linkedin.com/in/sarthakbhan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="75" /></a>
-<a href = "https://twitter.com/SarthakBhan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="75" /></a>
-<a href = "https://www.instagram.com/sarthakbhan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="75"/></a>
-<a href = "https://medium.com/@sarthakbhan"><img src="https://wsrv.nl/?url=https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png&w=75" width="75" style="border-radius:50"/></a>
-
-</p>
-
-## 🚀 Languages and Tools:
-
-<h4 align="left">Languages</h4>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="100"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" alt="c" width="100"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img  src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="100"/> </a>
-</a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="100"/> </a> </p>
-
-<h4>Tools and Frameworks</h4>
-<div align="left">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"> -->
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100"> -->
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100"> -->
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100"> -->
-  
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="100"/> </a>
-<!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://giphy.com/embed/QWOSiVuUuNAJHXv0FX" alt="photoshop" width="100"/> </a> -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100"/> </a>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100"/> </a>
-<img src="https://ph-files.imgix.net/d20962fa-6bca-4f4a-810a-2ff5a1d48438.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=64&h=64&fit=crop&frame=1&dpr=1" alt="hyper" width="100"/> </a>
-</div>
-
-<h4>AI/ML</h4>
-<p align="left">
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="100" height="100/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="pandas" width="100"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="100" height="100/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="100"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="100"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="100"/> </a> 
-</p> 
-
-## GitHub:
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif" width="280" />
-    <a href="https://github.com/PrateekR16/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sarthak Bhan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekR16&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-  <img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="280" />
-<a href="https://github.com/PrateekR16/"><img alt="Sarthak Bhans's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrateekR16&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-## 📊 My Github Stats
-
-<div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="https://user-images.githubusercontent.com/74038190/216655835-a5f1d93e-f8b1-44da-90ec-e52e833824f6.gif" width="250" />
-    <a href="https://github.com/PrateekR16/"><img alt="Sarthak Bhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekR16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-</p>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=RAG+pipelines+%2B+multi-agent+systems+at+scale;LangGraph+%C2%B7+LoRA%2FQLoRA+%C2%B7+pgvector%2FFAISS;7%2B+papers+%C2%B7+160%2B+citations" alt="Typing SVG" />
 
 </div>
 
-<br/>
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3f4b,100:1f2229&height=3" width="100%"/>
 
-<!--- <a href="https://github.com/PrateekR16"><img alt="Sarthak Bhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PrateekR16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262d,50:484f58,100:21262d&height=2" width="100%"/>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- 💜 Thanks For Visiting --------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+### 👨‍💻 Executive Bio
+
+- 💼 **Role**: Applied AI Engineer @ Photon Interactive (Client: **Citi**) — RAG pipelines, PostgreSQL document graphs, LangGraph multi-agent systems.
+- 🎓 **Education**: M.S. CS (AI), **USC** *(3.83/4.0)* · B.Tech Computer Engineering, University of Mumbai *(9.4/10)*.
+- 🔬 **Research**: SWE/AI Researcher, **USC ISI** & **IIT** — 7+ papers, 160+ citations (Explainable AI, NLP, Cybersecurity).
+- 🛠️ **Focus**: LangGraph/MCP agents · LoRA/QLoRA fine-tuning · pgvector/FAISS search · Spring Boot/FastAPI/AWS.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262d,50:484f58,100:21262d&height=2" width="100%"/>
+
+### 🛠️ Technical Toolkit
+
+<table>
+  <tr>
+    <td width="22%"><strong>AI / ML & Agents</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logo=diagram-next&logoColor=white" alt="LlamaIndex" />
+      <img src="https://img.shields.io/badge/LoRA%2FQLoRA-black?style=flat-square" alt="LoRA/QLoRA" />
+      <img src="https://img.shields.io/badge/RAG%20Pipelines-0052CC?style=flat-square" alt="RAG" />
+      <img src="https://img.shields.io/badge/MCP-5B21B6?style=flat-square" alt="MCP" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Data</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/PostgreSQL_%2B_pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" alt="FAISS" />
+      <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud, Infra & Web</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262d,50:484f58,100:21262d&height=2" width="100%"/>
+
+### 🌟 Featured Flagship Projects
+
+| Project | Highlights & Technical Architecture | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🏥 **MedicAID** | **GenAI-powered clinical assistant application**. Post-trained LLaMA-7B on 200k+ medical conversations with QLoRA & FAISS-based RAG. Built doctor/patient dashboards with a real-time **3D DICOM radiology viewer**, batching OCR, segmentation, and transcription models behind a unified REST contract. | `PyTorch` `LLaMA-7B` `QLoRA` `FAISS` `React` `TypeScript` `D3.js` | [Code](https://github.com/PrateekR16/MedicAID) |
+| 🛡️ **VulnArmor** | **LLM-powered vulnerability detection and patch generation**. Curated a 200k+ sample CVE corpus; fine-tuned LLaMA & Qwen achieving **0.81 CodeBLEU** against ground-truth security patches. Served CNN-BiLSTM and LLM endpoints from a Dockerized AWS EC2 inference stack. | `Python` `LLMs` `LoRA` `Docker` `AWS EC2` `PyTorch` | [Code](https://github.com/PrateekR16/CodeVul) · [Paper](https://doi.org/10.1007/s41870-024-01775-4) |
+| ☕ **Coffee Companion** | **Multi-signal specialty cafe discovery & taste-matching engine**. Fuses 10 signals across 800+ cafes with Reciprocal Rank Fusion (RRF); extracts coffee origin profiles via an OCR-to-LLM pipeline with strict JSON schema validation; paired a 48D taste profile with vector-indexed PostgreSQL embeddings. | `Next.js` `TypeScript` `PostgreSQL` `pgvector` `Python` `LLM Reranking` | [Code](https://github.com/PrateekR16/prat-coffee) · [Demo](https://prat-ran.vercel.app/) |
+| 🔍 **PatentSearch Microservices** | **USC ISI patent discovery engine**. Engineered high-throughput Java & Spring Boot microservices over the USPTO PatentView API with query-plan optimization (slashed latency by 75% to 2s average); automated ETL pipelines normalizing 3M+ records into AWS RDS. | `Java` `Spring Boot` `AWS RDS` `Docker` `Python ETL` `TypeScript` | [Code](https://github.com/PrateekR16) |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262d,50:484f58,100:21262d&height=2" width="100%"/>
+
+### 🔬 Selected Research Publications
+
+> 📚 *Author of 7+ published papers with 160+ citations on Google Scholar. [Explore Full Scholar Profile ↗](https://scholar.google.com/citations?user=GPHVd6sAAAAJ&hl=en)*
+
+1. **"Using Artificial Intuition in Distinct, Minimalist Classification of Scientific Abstracts for Management of Technology Portfolios"**  
+   *IEEE Technology and Engineering Management Conference (TEMSCON), 2025*  
+   **P. Ranka**, F. Morstatter, et al. — [[arXiv:2508.13182](https://arxiv.org/abs/2508.13182)]
+
+2. **"VulnArmor: Mitigating Software Vulnerabilities with Code Resolution and Detection Techniques"**  
+   *Springer International Journal of Information Technology (IJIT), 17:5393–5408, 2025*  
+   P. V. Sindhwad, **P. Ranka**, S. Muni, F. Kazi. — [[DOI: 10.1007/s41870-024-01775-4](https://doi.org/10.1007/s41870-024-01775-4)] · ⭐ **12 Citations**
+
+3. **"Detecting and Unmasking AI-Generated Texts through Explainable Artificial Intelligence using Stylistic Features"**  
+   *International Journal of Advanced Computer Science and Applications (IJACSA), 14(10):1043–1053, 2023*  
+   A. Shah, **P. Ranka**, et al. — [[DOI: 10.14569/IJACSA.2023.01410110](https://doi.org/10.14569/IJACSA.2023.01410110)] · ⭐ **86+ Citations**
+
+4. **"Pose Estimation and Virtual Gym Assistant Using MediaPipe and Machine Learning"**  
+   *International Research Conference* — ⭐ **36+ Citations**
+
+5. **"Predicting Solar Energy Generation with Machine Learning Based on AQI and Weather Features"**  
+   *Environmental Data Science & Energy Analytics* — ⭐ **13+ Citations**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262d,50:484f58,100:21262d&height=2" width="100%"/>
+
+### 🚧 Active Builds & In-Progress Research (WIP)
+
+- 🤖 **Autonomous Multi-Agent Audit Harness**: Building specialized LangGraph pipelines for automated compliance verification and cross-referencing against regulatory schemas with human-in-the-loop review.
+- ⚡ **Model Context Protocol (MCP) Server Integrations**: Building lightweight tool routers and memory providers connecting local IDE agents to private vector databases and code graph analyzers.
+- 🧭 **Trail Compass**: Modern outdoors and trail recommendation system pairing geospatial queries with contextual user preferences.
+- ☕ **Specialty Coffee Semantic Graph**: An open schema for mapping bean origins, processing methods, and roast profiles into a searchable vector index.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262d,50:484f58,100:21262d&height=2" width="100%"/>
+
+### ☕ Beyond The Terminal
+
+- ☕ **Specialty Coffee**: Constantly dialing in pour-over recipes (V60 & AeroPress) and exploring third-wave roasters across San Francisco and Los Angeles.
+- 🎮 **Gaming**: Avid competitive multiplayer and strategy gamer.
+- 📖 **Reading**: Focused on AI alignment, mechanistic interpretability, and distributed system architectures.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262d,50:484f58,100:21262d&height=2" width="100%"/>
+
+<blockquote align="center">Let's connect and build something impactful together!</blockquote>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/prateekranka16/"><b>LinkedIn</b></a> • 
+  <a href="https://prat-ran.vercel.app/"><b>Portfolio</b></a> • 
+  <a href="https://scholar.google.com/citations?user=GPHVd6sAAAAJ&hl=en"><b>Google Scholar</b></a> • 
+  <a href="mailto:prateekranka1607@gmail.com"><b>Email</b></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3f4b,100:1f2229&height=3" width="100%"/>
