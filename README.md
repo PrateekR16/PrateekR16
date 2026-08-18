@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3f4b,100:1f2229&height=3" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a3f4b,100:1f2229&height=3" width="100%"/> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:21262d,50:484f58,100:21262d&height=2" width="100%"/>
 
