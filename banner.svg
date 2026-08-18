@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#0d1117"></rect>
+  <rect x="0" y="0" width="1200" height="40" fill="#161b22"></rect>
+  <circle cx="24" cy="20" r="6" fill="#484f58"></circle>
+  <circle cx="48" cy="20" r="6" fill="#484f58"></circle>
+  <circle cx="72" cy="20" r="6" fill="#484f58"></circle>
+  <text x="600" y="25" fill="#8b949e" font-family="monospace" font-size="13" text-anchor="middle">prateek@terminal — 120x30</text>
+  <line x1="0" y1="40" x2="1200" y2="40" stroke="#30363d" stroke-width="1"></line>
+
+  <text x="60" y="110" fill="#8b949e" font-family="monospace" font-size="22">$ whoami</text>
+  <text x="60" y="160" fill="#e6edf3" font-family="monospace" font-size="42" font-weight="bold">Prateek Ranka</text>
+  <text x="60" y="205" fill="#8b949e" font-family="monospace" font-size="20">&gt; Applied AI Engineer · USC · RAG &amp; multi-agent systems</text>
+
+  <text x="60" y="255" fill="#484f58" font-family="monospace" font-size="18">$ <tspan fill="#e6edf3">_</tspan></text>
+</svg>
